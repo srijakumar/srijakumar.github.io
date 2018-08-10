@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Code emulates life"
-date:       2018-08-09 21:16:24 +0000
+date:       2018-08-09 17:16:25 -0400
 permalink:  code_emulates_life
 ---
 
@@ -17,13 +17,7 @@ Now let’s talk about the process. The first thing I wanted to determine was th
 
 Once I had decided on the “parent” website, I needed to confirm that this website had specific identifiable tags associated with the news headline, author and the article that I wanted to display to the user.
 
-As you can see the 5 headlines are wrapped in
-
-Issue making tags specific
-
-What would the user see:
-
-Working from front to back
+*****TBD********************* Issues with image upload. More to come
 
 
 
